@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ed Montemayor</title>
+    <link>/</link>
+    <description>Recent content on Ed Montemayor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Blog Post</title>
+      <link>/post/2020/12/05/test-blog-post/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020/12/05/test-blog-post/</guid>
+      <description>Number 15: Burger king foot lettuce. The last thing you&#39;d want in your Burger King burger is someone&#39;s foot fungus. But as it turns out, that might be what you get. A 4channer uploaded a photo anonymously to the site showcasing his feet in a plastic bin of lettuce. With the statement: &amp;quot;This is the lettuce you eat at Burger King.&amp;quot; Admittedly, he had shoes on. But that&#39;s even worse.</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>Introduction I have chosen the USCancerRates dataset for my project; this data set records the annual rates of death (1999-2003) due to cancer by sex in US counties. These observations were taken from the public reports of the National Vital Statistics System, which were in turn provided by hospitals around the country. This dataset contains the rate of death per 100,000 due to cancer among males and females, the 95% lower and upper confidence limit for each sex&#39;s rate of death, and the state and county for each observation.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Movies</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description>Introduction For this study I have chosen the movies dataset from jtools. This dataset piqued my interest as it includes information about which films pass the Bechdel test (a measure of of the representation of women). The main variables that will be studied are genre5 (the primary genre of each film), rated (the Motion Picture Association&#39;s rating of the film), runtime (the length of each of film), budget (each film&#39;s budget), imdb_rating (each film&#39;s rating on imdb), and the bechdel_binary (whether the film passed the Bechdel test; FALSE = non-bechdel film, TRUE = bechdel film).</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>  Check out some of my coding projects below:
+ Wrangling &amp;amp; Exploratory Data Analysis
+ Modeling, Inference, Prediction
+  -- </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>     </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ed Montemayor</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Ed Montemayor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>Introduction I have chosen the USCancerRates dataset for my project; this data set records the annual rates of death (1999-2003) due to cancer by sex in US counties. These observations were taken from the public reports of the National Vital Statistics System, which were in turn provided by hospitals around the country. This dataset contains the rate of death per 100,000 due to cancer among males and females, the 95% lower and upper confidence limit for each sex&#39;s rate of death, and the state and county for each observation.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Movies</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description>Introduction For this study I have chosen the movies dataset from jtools. This dataset piqued my interest as it includes information about which films pass the Bechdel test (a measure of of the representation of women). The main variables that will be studied are genre5 (the primary genre of each film), rated (the Motion Picture Association&#39;s rating of the film), runtime (the length of each of film), budget (each film&#39;s budget), imdb_rating (each film&#39;s rating on imdb), and the bechdel_binary (whether the film passed the Bechdel test; FALSE = non-bechdel film, TRUE = bechdel film).</description>
+    </item>
+    
+  </channel>
+</rss>
