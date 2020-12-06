@@ -77,7 +77,7 @@ The standard deviation of the variable lat when depth is greater than the median
 ###Here's a pic of a wooden van I decked out in Forza: 
 ![](/post/2020-12-05-here-is-the-blog-post-for-project-3_files/IMG_3382.JPG){width=300px height=300px}
 
-[Link to Project 1](/projects/project1/)
+[Link to Project 1](https://edg-rdo.github.io/project/project1/)
 
 [Link to Google](https://www.google.com)
 
