@@ -13,23 +13,19 @@ Howdy,
 Here's how Python and R interact.
 
 ```{r}
-
-#here is a regular R markdown chunk
 print("here we go")
+#here is a regular R markdown chunk
 eh <- "ok"
 ```
 
 ```{R}
-
 # R CHUNK
-names(knitr::knit_engines$get())
 library(reticulate)
-
 ```
 
 ```{python}
 #PYTHON CHUNK
-x = "he"
+x = "yes"
 print(r.eh,x)
 
 ```
